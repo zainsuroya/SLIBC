@@ -131,11 +131,11 @@ button:focus {
 }
 
 .nav-item .nav-link:hover .nav-link-number {
-    color: #303669 !important;
+    color: #007bff !important;
 }
 
 .nav-item .nav-link:hover .nav-link-menu {
-    color: #303669 !important;
+    color: #007bff !important;
 }
 
 .nav-link-number {
@@ -167,11 +167,11 @@ button:focus {
 
 .learn-more-btn:hover {
     color: #fff;
-    background-color: #FF3E81;
+    background-color: #303669;
 }
 
 .btn-invert {
-    background-color: #FF3E81!important;
+    background-color: #007bff!important;
 }
 
 .btn-invert:hover {
@@ -867,7 +867,7 @@ button:focus {
 }
 
 .blog-post-link:hover {
-    color: #FF3E81;
+    color: #007bff;
     text-decoration: none;
 }
 
@@ -1089,12 +1089,12 @@ li.text-dark::before {
 }
 
 .footer-subsection-list-call:hover {
-    color: #FF3E81;
+    color: #007bff;
     text-decoration: none;
 }
 
 .footer-subsection-list-email:hover {
-    color: #FF3E81;
+    color: #007bff;
     text-decoration: none;
 }
 
